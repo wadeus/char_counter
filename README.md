@@ -1,3 +1,8 @@
+3分くらいで適当に作ったものなのでめっちゃ低クオリティですが気にしないでください…
+<br>
+
+I made this in about 3 minutes, so it's really low quality, but please don't mind...
+<br>
 # char_counter
 <br>
 
